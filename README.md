@@ -25,4 +25,4 @@ Auction ends in three cases:
 - time of the auction ended, so that money transfers from the escrow’s account to buyer’s one, or if there wasn’t any bets the article simply disappears
 
 _You need to have metamask installed before you enter the_
-[site](https://serhiypro.github.io/Auction/)  
+[site](https://serhiypro.github.io/Auction-project/)  
